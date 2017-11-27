@@ -1,4 +1,0 @@
-- Реализовать Set на 1 массиве, со всеми 4 операциями над множествами
-- Реализовать Map на 2 массивах (в одном ключи, в другом значения)
-- Реализовать Iterable для Map и Set: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols
-- Реализовать полный полифил Set и Map (это если кто хочет попрактиковаться)
