@@ -11,6 +11,7 @@ const extend = (obj, ...mixins) => {
   return obj;
 };
 
+
 const square = {
   x: 20,
   y: 10,
@@ -34,6 +35,7 @@ const mixin2 = {
 };
 
 extend(square, mixin1, mixin2);
+
 
 console.log(square.sqr);
 
