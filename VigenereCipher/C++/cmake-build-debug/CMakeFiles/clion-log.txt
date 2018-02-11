@@ -1,0 +1,4 @@
+/home/mm/Documents/cLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mm/Projects/VigenereCipher
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mm/Projects/VigenereCipher/cmake-build-debug

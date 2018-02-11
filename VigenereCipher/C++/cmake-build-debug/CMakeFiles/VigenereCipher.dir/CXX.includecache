@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mm/Projects/VigenereCipher/cipher.h
+iostream
+-
+cstring
+-
+getData.h
+/home/mm/Projects/VigenereCipher/getData.h
+stringInKey.h
+/home/mm/Projects/VigenereCipher/stringInKey.h
+getCipher.h
+/home/mm/Projects/VigenereCipher/getCipher.h
+
+/home/mm/Projects/VigenereCipher/getCipher.h
+stringInKey.h
+/home/mm/Projects/VigenereCipher/stringInKey.h
+
+/home/mm/Projects/VigenereCipher/getData.h
+string
+-
+iostream
+-
+
+/home/mm/Projects/VigenereCipher/main.cpp
+iostream
+-
+cipher.h
+/home/mm/Projects/VigenereCipher/cipher.h
+
+/home/mm/Projects/VigenereCipher/stringInKey.h
+
