@@ -21,24 +21,4 @@ int main()
     }
 
     return 0;
-
-//
-//    string str;
-//    getline(cin, str);
-//
-//    char c[str.size()];
-//    strcpy(c, str.c_str());
-//
-//    auto n = int(c[0]);
-//    cout << n;
-//
-//    return 0;
-
-
-//    string surname;
-//    cout << "Enter your surname: ";
-//    getline(cin, surname);
-//
-//    char surnameChar[surname.size()];
-//    strcpy(surnameChar, surname.c_str());
 }
